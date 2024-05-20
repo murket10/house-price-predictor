@@ -1,0 +1,7 @@
+cannot feed downloaded data directly to the machine learning model
+must be preprocessed first
+
+
+data - data preprocessing - data analysis - xgboost regressor - evaluate
+                                  |
+                            train    test
